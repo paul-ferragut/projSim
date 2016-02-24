@@ -1,0 +1,16 @@
+*.sdf
+projJag.opensdf
+*.obj
+obj/Debug/projJag.log
+*.tlog
+*.dll
+.vs/projJag/v14/.suo
+*.exe
+bin/projJag.exp
+*.lib
+bin/projJag_debug.exp
+*.pdb
+bin/projJag_debug.ilk
+*.log
+obj/Debug/icon.res
+*.res
